@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MAPP Test Suite">
+  <parameter name="job_id" value="201910091989"/>
+  <test verbose="2" name="Default test">
+  	<parameter name="tc_id" value="004" />
+  	<parameter name="sheetName" value="CritiSheild-Maj-Diff" />
+  	<parameter name="modclassName" value="com.bsli.ibm.mod.eappMod" />
+    <classes>
+      <class name="com.bsli.ibm.controller.MappController"/>
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Default suite -->

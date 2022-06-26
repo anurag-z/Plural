@@ -1,0 +1,45 @@
+2020-10-13 14:04:59,452 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-10-13 14:06:34,696 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bsli.ibm.mapp:com.bsli.ibm.mapp:0.0.1-SNAPSHOT @ C:\Users\Dell\eclipse-workspace\Varsha\HDFCD2C\com.bsli.ibm.mapp_web\pom.xml.
+2020-10-13 14:06:34,706 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bsli.ibm.mapp.common:com.bsli.ibm.mapp.common:0.0.1-SNAPSHOT @ C:\Users\Dell\eclipse-workspace\Varsha\HDFCD2C\com.bsli.ibm.mapp.common\pom.xml.
+2020-10-13 14:06:58,358 [Worker-10: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bsli.ibm.mapp:com.bsli.ibm.mapp:0.0.1-SNAPSHOT @ C:\Users\Dell\eclipse-workspace\Varsha\HDFCD2C\com.bsli.ibm.mapp_web\pom.xml.
+2020-10-13 14:06:58,419 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 14:06:58,446 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 14:06:58,451 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 14:06:58,467 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\Varsha\HDFCD2C\com.bsli.ibm.mapp.common\src\test\resources
+2020-10-13 14:06:59,483 [Worker-10: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bsli.ibm.mapp.common:com.bsli.ibm.mapp.common:0.0.1-SNAPSHOT @ C:\Users\Dell\eclipse-workspace\Varsha\HDFCD2C\com.bsli.ibm.mapp.common\pom.xml.
+2020-10-13 14:06:59,786 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bsli.ibm.mapp:com.bsli.ibm.mapp:0.0.1-SNAPSHOT @ C:\Users\Dell\eclipse-workspace\Varsha\HDFCD2C\com.bsli.ibm.mapp_web\pom.xml.
+2020-10-13 14:07:01,234 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 14:07:01,250 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-13 14:07:01,281 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 14:07:01,298 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\Varsha\HDFCD2C\com.bsli.ibm.mapp_web\src\test\resources
+2020-10-13 14:07:04,317 [Worker-8: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bsli.ibm.mapp:com.bsli.ibm.mapp:0.0.1-SNAPSHOT @ C:\Users\Dell\eclipse-workspace\Varsha\HDFCD2C\com.bsli.ibm.mapp_web\pom.xml.
+2020-10-13 14:07:05,129 [Worker-8: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bsli.ibm.mapp.common:com.bsli.ibm.mapp.common:0.0.1-SNAPSHOT @ C:\Users\Dell\eclipse-workspace\Varsha\HDFCD2C\com.bsli.ibm.mapp.common\pom.xml.
+2020-10-13 14:07:06,367 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 14:07:06,443 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 14:07:06,447 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 14:07:06,461 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\Varsha\HDFCD2C\com.bsli.ibm.mapp.common\src\test\resources
+2020-10-13 14:07:08,356 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 14:07:08,376 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 14:07:08,379 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 14:07:08,471 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\Varsha\HDFCD2C\com.bsli.ibm.mapp.common\src\test\resources
+2020-10-13 14:07:09,594 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 14:07:09,650 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-13 14:07:09,683 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 14:07:09,699 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\Varsha\HDFCD2C\com.bsli.ibm.mapp_web\src\test\resources
+2020-10-13 14:09:46,848 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 14:09:46,885 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 14:09:46,887 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 14:09:46,903 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\Varsha\HDFCD2C\com.bsli.ibm.mapp.common\src\test\resources
+2020-10-13 14:09:46,927 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 14:09:46,945 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 14:09:46,948 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 14:09:46,959 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\Varsha\HDFCD2C\com.bsli.ibm.mapp_web\src\test\resources
+2020-10-13 14:46:24,047 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 14:46:24,101 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-13 14:46:24,106 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 14:46:24,120 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\Varsha\HDFCD2C\com.bsli.ibm.mapp_web\src\test\resources
+2020-12-29 17:48:05,426 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-29 17:48:32,169 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-29 17:48:32,289 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-29 17:48:32,394 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-29 17:48:32,431 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\Varsha\HDFCD2C\com.bsli.ibm.mapp_web\src\test\resources

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Minor]">
+  <parameter name="jobid" value="201911329121454"/>
+  <listeners>
+    <listener class-name="com.bsli.ibm.listener.SuiteListener"/>
+  </listeners>
+  <test name="Test_001(failed)">
+    <parameter name="sheetName" value="Minor"/>
+    <parameter name="modclassName" value="com.bsli.ibm.mod.eappMod"/>
+    <parameter name="tc_id" value="001"/>
+    <classes>
+      <class name="com.bsli.ibm.controller.MappController">
+        <methods>
+          <include name="initModClass"/>
+          <include name="initModClass"/>
+          <include name="loadModClass" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.bsli.ibm.controller.MappController -->
+    </classes>
+  </test> <!-- Test_001(failed) -->
+  <test name="Test_002(failed)">
+    <parameter name="sheetName" value="Minor"/>
+    <parameter name="modclassName" value="com.bsli.ibm.mod.eappMod"/>
+    <parameter name="tc_id" value="002"/>
+    <classes>
+      <class name="com.bsli.ibm.controller.MappController">
+        <methods>
+          <include name="initModClass"/>
+          <include name="initModClass"/>
+          <include name="loadModClass" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.bsli.ibm.controller.MappController -->
+    </classes>
+  </test> <!-- Test_002(failed) -->
+</suite> <!-- Failed suite [Minor] -->

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [MajorSame]">
+  <parameter name="jobid" value="202006160102906"/>
+  <listeners>
+    <listener class-name="com.bsli.ibm_web.listener.SuiteListener"/>
+  </listeners>
+  <test name="Test_001(failed)">
+    <parameter name="sheetName" value="MajorSame"/>
+    <parameter name="modclassName" value="com.bsli.ibm_web.mod.eappMod"/>
+    <parameter name="tc_id" value="001"/>
+    <parameter name="appURL" value=" http://mpowerateaseuat.birlasunlife.com:8080/BSLID2C/apps/services/www/bslid2c/desktopbrowser/default/index.html?SSO_STR=vzSOY6BgjmTpKl99P49cOjTQFvBH8hd3M0f8GLHeIXGsNBHUqsnFGrZOe42rnKXB5DUqWMgUgo1h5rr8j+Zu1sb+KWrzQqtQi02ybNUmksNGfwMQBdOtvyd/zSDgCkGvf278wXWfXys0FkERkjnugGnr+z1/wVW2Uv9SJznGutq2xt3T5AhyEqFWyKTIElRJiqruHdpZp0UPWJ7TppE68PwbgQVfETZgrmc27eS6xFe6GCKp2/NqO/mPk/QbzoH362lf2PEfHlryeWWF1df7mk1DxUa9qitLlypkLbZKxBM7/NmNC8HmSqnhGurAR7uw7szLYq+wYCzCfokC1ZrPJzVZz0uuFIOi1QWCIBZgaRWOQaBnpepHAvjUWjYnAgIqUwDAIG42PG5Byh60HxMllbFKSqAdPdb1rn31kvZ3CrU5ZtSEt6j+S7ISJ3savjRi"/>
+    <classes>
+      <class name="com.bsli.ibm_web.controller.MappController">
+        <methods>
+          <include name="initModClass"/>
+          <include name="loadModClass" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.bsli.ibm_web.controller.MappController -->
+    </classes>
+  </test> <!-- Test_001(failed) -->
+</suite> <!-- Failed suite [MajorSame] -->

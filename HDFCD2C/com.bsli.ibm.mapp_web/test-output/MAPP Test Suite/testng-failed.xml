@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [MAPP Test Suite]">
+  <parameter name="job_id" value="201910091989"/>
+  <test name="Default test(failed)">
+    <parameter name="sheetName" value="CritiSheild-Maj-Diff"/>
+    <parameter name="modclassName" value="com.bsli.ibm.mod.eappMod"/>
+    <parameter name="tc_id" value="004"/>
+    <classes>
+      <class name="com.bsli.ibm.controller.MappController">
+        <methods>
+          <include name="loadModClass" invocation-numbers="0"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.bsli.ibm.controller.MappController -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [MAPP Test Suite] -->
